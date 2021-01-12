@@ -21,7 +21,7 @@ function play(questions,answers)
 }
 
 var questionOne = "what is manish's fav color?";
-var answerOne = "Black";
+var answerOne = "Black"; 
 var question2 = "what is his fav food?";
 var answer2 = "Momos";
 var question3 = "what is his age?";
